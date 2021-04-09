@@ -51,7 +51,7 @@
 			<div class="item active">
 			
 				<img alt="" src="images/¿À·»Áö.jpg" width="1000px">
-				
+			
 			</div>
 			
 			<div class="item">
